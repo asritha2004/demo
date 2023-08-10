@@ -1,2 +1,3 @@
 This is the first line of new document
 This is the second line of new document
+This is soc lab exercise 4
